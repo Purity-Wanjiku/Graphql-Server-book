@@ -1,0 +1,11 @@
+.double-page-container {
+    display: flex;
+  }
+  
+  .left-page, .right-page {
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
